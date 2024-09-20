@@ -1,4 +1,4 @@
-# Stock Exchange API
+# Stock Management API
 
 This project is a Django-based stock management system that allows users to register, manage stock prices, and handle stock transactions (buy/sell). The API also provides endpoints for user balance management and transactions.
 
