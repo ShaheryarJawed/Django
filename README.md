@@ -89,9 +89,3 @@ If you have any questions, feel free to contact me at shaheryar.jawed000@gmail.c
 - Send a Pull Request (PR) for the REST API app.
 - Add a `README.md` file to provide clear instructions on setting up and running the project on any machine.
 - Follow the standard practices for writing the REST API app.
-
-
-
-## pending
-- authentication
-- Implementing required fields in Swagger for improved validation.
